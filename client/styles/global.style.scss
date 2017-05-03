@@ -1,0 +1,37 @@
+/* global styling */
+/* import css framework first - bootstrap example*/
+/*@import 'foundation';*/
+/*@import 'materialize';*/
+@import 'global-variables.styles.scss';/* copy of bootstrap variables for custom theme*/
+@import 'bootstrap';/*importing bootstrap scss files */
+@import 'font-awesome';
+
+body{
+	padding-top:50px;
+}
+
+h1{
+	color:$brand-primary;
+}
+
+.center-col {
+  float: none;
+  margin: 0 auto;
+}
+
+.primary-tms{
+  background-color:#3D820C;
+      border-color:#A1CF73;
+}
+.secondary-tms{
+  background-color:#A1CF73;
+      border-color:#3D820C;
+}
+.light-tms{
+  background-color:#C4E0A6;
+}
+.gray-tms{
+  background-color:#989898;
+}
+
+
