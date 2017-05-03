@@ -16,6 +16,8 @@
 Why Mean Stack JS
 -----------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/greenpioneersolutions/task-me-solutions.svg)](https://greenkeeper.io/)
+
 The best developers want to be efficient and productive, quickly prototyping and experimenting, able to build successes into production-ready applications. We believe Mean Stack JS gives developers of all skill levels—whether at enterprise scale or working solo—an ideal open-source toolset for building rapid, scalable Javascript applications. We'll provide you a simple project structure that is versatile enough to quickly apply to your own development projects. Want to get started?
 
 
